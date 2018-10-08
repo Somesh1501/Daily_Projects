@@ -1,1 +1,1 @@
-The Daily projects done by me.
+Daily projects done by me.
